@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-	<title>Peliculas</title>
+	<title>[COLOR red]Peliculas[/COLOR]</title>
+	<thumbnail>http://comunidad.wikia.com/wiki/Archivo:Cine.png</thumbnail>
+	<fanart>http://trestristescriticos.com/wp-content/uploads/2017/01/cine.jpg</fanart>
+	<link>http://ignoreme</link>
+	<externallink>https://raw.githubusercontent.com/NuevaTV/NuevaTV/master/test1.xml</externallink>
+</item>
+
+<item>
+	<title></title>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 	<link>http://ignoreme</link>
@@ -9,15 +17,7 @@
 </item>
 
 <item>
-	<title>Peliculas</title>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	<link>http://ignoreme</link>
-	<externallink></externallink>
-</item>
-
-<item>
-	<title>Peliculas</title>
+	<title></title>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 	<link>http://ignoreme</link>
